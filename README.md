@@ -4,6 +4,9 @@ I use Keras as the main deep learning framework in this repository.
 
 # Outline
 1. Data Preprocessing
-2. ANN (Basic Neural Network Knowledge)
-3. CNN
-4. RNN
+2. ANN
+3. Calibration
+   1. Early Stop
+   2. GridSearchCV
+4. CNN
+5. RNN
